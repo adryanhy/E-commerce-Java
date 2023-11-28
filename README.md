@@ -52,12 +52,12 @@ O sistema será desenvolvido utilizando os seguintes conceitos de POO:
 
 Organização dos pacotes:
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/e35acae4-0417-4e78-89c4-8394fd859a28)
+![image](https://github.com/adryanhy/ProjetoPOO/images/100885847/e35acae4-0417-4e78-89c4-8394fd859a28)
 
 model: 
 Contém as classes Produto, Carrinho e Vestuário
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/607a65ed-ef27-4faf-b777-5b5761038aa0)
+![image](https://github.com/adryanhy/ProjetoPOO/images/100885847/607a65ed-ef27-4faf-b777-5b5761038aa0)
 
 ### Classe Produto
 
