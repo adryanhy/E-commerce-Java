@@ -316,7 +316,7 @@ Cada opção do menu chama um método correspondente para executar a ação dese
 
 ## Instalação
 ```bash
-git clone https://github.com/adryanhy/ProjetoPOO
+git clone https://github.com/adryanhy/E-commerce-Java
 ```
 
 
