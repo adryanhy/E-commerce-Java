@@ -21,7 +21,7 @@ O sistema será desenvolvido utilizando os seguintes conceitos de POO:
 - Bruno Ricardo
 - Camila Emy
 - Lucas Araujo
-- Luana Santos
+- Luana Ribeiro
 - Tifanny Gomes
 
 ## Tecnologias
