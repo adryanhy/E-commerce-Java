@@ -57,7 +57,7 @@ Organização dos pacotes:
 model: 
 Contém as classes Produto, Carrinho e Vestuário
 
-![image](https://github.com/adryanhy/ProjetoPOO/images/100885847/607a65ed-ef27-4faf-b777-5b5761038aa0)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285543706-607a65ed-ef27-4faf-b777-5b5761038aa0.png)
 
 ### Classe Produto
 
@@ -70,11 +70,11 @@ import java.util.List;
 
 Atributos da classe Produto:
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/94c56c84-b76a-4b6f-b561-87d469de5f73)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285544459-94c56c84-b76a-4b6f-b561-87d469de5f73.png)
 
 Método construtor da classe Produto:
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/2af6b0bc-5ae2-465a-881b-50fe3ad167f5)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285544562-2af6b0bc-5ae2-465a-881b-50fe3ad167f5.png)
 
 Getters e Setter da classe Produto:
 ```bash
@@ -138,7 +138,7 @@ public String getNome() {
 
 Método ToString:
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/a67b4842-3425-4254-9a19-109b4be29e55)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285544970-a67b4842-3425-4254-9a19-109b4be29e55.png)
 
 
 ### Classe Carrinho
@@ -151,15 +151,15 @@ import java.util.List;
 
 Atributo list da classe Carrinho:
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/480cc15c-99bb-4023-b6d8-655da9afa9f9)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285545645-480cc15c-99bb-4023-b6d8-655da9afa9f9.png)
 
 Método construtor: 
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/9d282eb9-d67d-4670-8fe4-886648299610)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285545711-9d282eb9-d67d-4670-8fe4-886648299610.png)
 
 Método para adicionar produto ao carrinho:
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/e9c4586d-8a9a-4d37-bbd7-f7bf2e5309e5)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285545816-e9c4586d-8a9a-4d37-bbd7-f7bf2e5309e5.png)
 
 
 ### Resumo: Adiciona um produto ao carrinho de compras.
@@ -180,7 +180,7 @@ O método `(adicionarProduto()` adiciona um produto à lista de produtos do carr
 
 Método para remover produto do carrinho:
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/a4614c82-1a89-4a8e-8a15-0094a5248141)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285547013-a4614c82-1a89-4a8e-8a15-0094a5248141.png)
 
 
 ### Resumo: Remove um produto do carrinho de compras.
@@ -201,7 +201,7 @@ O método `removerProduto()` remove um produto da lista de produtos do carrinho 
 
 Método para listar produtos no carrinho
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/71edb821-f9d5-41e0-b8bd-afe96e9ea25b)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285547333-71edb821-f9d5-41e0-b8bd-afe96e9ea25b.png)
 
 
 ### Resumo: Lista os produtos do carrinho de compras.
@@ -222,7 +222,7 @@ O método `listarProdutos()` lista os produtos do carrinho de compras. O método
 
 ### Método para calcular o total da compra
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/2a517204-aa2d-4de0-9311-ff6531142eea)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285547550-2a517204-aa2d-4de0-9311-ff6531142eea.png)
 
 ### Argumentos:
 
@@ -240,7 +240,7 @@ O método `calcularTotalCompra()` calcula o total da compra. O método usa um `l
 
 ### Método para aplicar desconto
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/1ed673af-288c-4c97-8e51-65d63ce023b0)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285547853-1ed673af-288c-4c97-8e51-65d63ce023b0.png)
 
 ### Resumo: Aplica um desconto ao total da compra.
 
@@ -283,29 +283,29 @@ A classe Main contém um menu que permite ao usuário escolher uma opção. As o
   
 Cada opção do menu chama um método correspondente para executar a ação desejada.
 
-![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/64c0a9e6-89c0-480d-beb4-fdab892cb08f)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285549255-64c0a9e6-89c0-480d-beb4-fdab892cb08f.png)
 
 ### Exemplo de uso:
 
 - Para adicionar um produto ao carrinho, o usuário deve inserir o nome do produto, o preço, a descrição, o tamanho, a cor, a marca e o SKU do produto.
 
-  ![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/4f830db6-e4c4-4c5c-8337-1fdc8f14ff7a)
+  ![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285549347-4f830db6-e4c4-4c5c-8337-1fdc8f14ff7a.png)
 
 - Para remover um produto do carrinho, o usuário deve inserir o nome do produto a ser removido.
 
-  ![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/7c031b15-cda9-4e20-b9d4-b953dca0d9aa)
+  ![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285549418-f28ceae4-1bf6-43b7-8337-1cbd2e6642d8.png)
 
 - Para listar os produtos no carrinho, o usuário deve selecionar a opção "Listar produtos no carrinho" no menu.
 
-  ![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/f28ceae4-1bf6-43b7-8337-1cbd2e6642d8)
+  ![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285549667-7c031b15-cda9-4e20-b9d4-b953dca0d9aa.png)
 
 - Para aplicar um desconto, o usuário deve inserir o percentual do desconto a ser aplicado.
 
-  ![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/fd874490-e377-4e69-8f01-3f672d0d0cdf)
+  ![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285549712-fd874490-e377-4e69-8f01-3f672d0d0cdf.png)
 
 - Para calcular o total da compra, o usuário deve selecionar a opção "Calcular total da compra" no menu.
 
-  ![image](https://github.com/adryanhy/ProjetoPOO/assets/100885847/024f035e-abcf-46d4-a5a9-07552e566d46)
+  ![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285549803-024f035e-abcf-46d4-a5a9-07552e566d46.png)
 
   Exemplo sem ter adicionado o desconto ao final da compra!
 
