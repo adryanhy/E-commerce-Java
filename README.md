@@ -312,7 +312,7 @@ Cada opção do menu chama um método correspondente para executar a ação dese
 
 
 ## Vídeo demonstrativo
-(adicionar link do vídeo aqui)
+https://www.loom.com/share/9b672c02cdda461d8dd73bd21d46a75f?sid=a2e1d6f3-e14a-4a73-a2f2-8ae8251ad1a1
 
 ## Instalação
 ```bash
