@@ -52,7 +52,7 @@ O sistema será desenvolvido utilizando os seguintes conceitos de POO:
 
 Organização dos pacotes:
 
-![image](https://github.com/adryanhy/ProjetoPOO/images/100885847/e35acae4-0417-4e78-89c4-8394fd859a28)
+![image](https://github.com/adryanhy/E-commerce-Java/blob/main/images/285543662-e35acae4-0417-4e78-89c4-8394fd859a28.png)
 
 model: 
 Contém as classes Produto, Carrinho e Vestuário
